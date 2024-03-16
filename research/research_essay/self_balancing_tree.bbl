@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{foster1973generalization}
+Caxton~C Foster.
+\newblock A generalization of avl trees.
+\newblock {\em Communications of the ACM}, 16(8):513--517, 1973.
+
+\bibitem{graefe2011modern}
+Goetz Graefe et~al.
+\newblock Modern b-tree techniques.
+\newblock {\em Foundations and Trends{\textregistered} in Databases}, 3(4):203--402, 2011.
+
+\bibitem{hanke1999performance}
+Sabine Hanke.
+\newblock The performance of concurrent red-black tree algorithms.
+\newblock In {\em Algorithm Engineering: 3rd International Workshop, WAE'99 London, UK, July 19--21, 1999 Proceedings 3}, pages 286--300. Springer, 1999.
+
+\bibitem{cs61b}
+Josh Hug.
+\newblock {\em Hug61B Spring 2019 Edition}.
+\newblock gitbook, 2021.
+
+\bibitem{makinen1991survey}
+Erkki M{\"a}kinen.
+\newblock A survey on binary tree codings.
+\newblock {\em The Computer Journal}, 34(5):438--443, 1991.
+
+\bibitem{sedgewick2008left}
+Robert Sedgewick.
+\newblock Left-leaning red-black trees.
+\newblock In {\em Dagstuhl Workshop on Data Structures}, volume~17, 2008.
+
+\bibitem{sedgewick2011algorithms}
+Robert Sedgewick and Kevin Wayne.
+\newblock Algorithms (4th edn).
+\newblock {\em Google Scholar Google Scholar Digital Library Digital Library}, 2011.
+
+\end{thebibliography}
